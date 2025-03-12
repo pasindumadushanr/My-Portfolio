@@ -1,0 +1,14 @@
+To complete the CV download setup:
+
+1. Convert your CV layout to a PDF file named "Pasindu_Madushan_CV.pdf"
+   - You can use a tool like Microsoft Word, Google Docs, or an online PDF converter
+   - Make sure the PDF looks exactly like the CV layout you shared
+
+2. Place the PDF file in the "public" directory of your Next.js project
+   - This is typically at the root level of your project
+   - The path should be: /public/Pasindu_Madushan_CV.pdf
+
+3. Deploy your site again after adding the PDF file
+
+Once these steps are completed, the "Download CV" button will download your exact CV layout as a PDF file.
+

@@ -1,0 +1,68 @@
+Pasindu Madushan - Trainee Software Engineer
+pasindumadushanr04@gmail.com
++94 712496567
+Malabe
+pasindumadushanr
+
+EDUCATION
+---------
+BSc (Hons) in Information Technology 
+Specialising in Information Technology
+Sri Lanka Institute of Information Technology
+2022 – present | Malabe, Sri Lanka
+
+GCE Advanced Level (Physical Science)
+Walasmulla National School
+Walasmulla
+
+PROFILE
+-------
+Enthusiastic and dedicated BSc (Hons) Information Technology student specializing in Information Technology, with a strong foundation in programming, software design, and networking. Passionate about web development and software engineering, with a keen interest in MERN stack development. Eager to apply technical skills and knowledge to real-world challenges, while continuously learning and growing in the tech industry. Looking for opportunities to contribute effectively to innovative projects and collaborate within dynamic team.
+
+PROJECTS
+--------
+Blog App
+Developed a full-stack shop management system with user authentication, dynamic content management, and full CRUD functionality.
+Technologies: MERN Stack, Firebase, Vite
+
+Fresh4You Shop Management System
+Developed a comprehensive shop management system using the MERN stack to streamline inventory, sales, and customer management.
+Technologies: MERN Stack, Firebase, Payment gateway integration
+
+Online Music Store
+Developed an online music store with dynamic web pages, user authentication, and CRUD operations.
+Technologies: Java, Servlet, MySQL
+
+ToDo App
+Developed a mobile ToDo application with task management, reminders, and CRUD functionality.
+Technologies: Kotlin, Android Studio, SQLite
+
+Student Management
+Developed a full-stack student management system with user authentication, dynamic data management, and full CRUD functionality.
+Technologies: MERN Stack
+
+SKILLS
+------
+OOP     MERN Stack     Linux     GitHub
+DSA     Java     JavaScript     PHP    Firebase
+SQL     R    Node.js    HTML    CSS    Python
+Kotlin    MongoDB    MYSQL    AWS   C#   C
+C++    Flutter  ASP .Net Core   DevOps
+
+FIND ME ONLINE
+-------------
+GitHub: https://github.com/pasindumadushanr
+LinkedIn: www.linkedin.com/in/pasindu-madushan-b5b22a2aa
+
+REFERENCES
+----------
+Dr. Samantha Rajapaksha, 
+Head/Department of IT, 
+Sri Lanka Institute of Information Technology
+samantha.r@sliit.lk
+
+Nuwan Sanjeewa, 
+Head of operations, 
+SLTC Research University
+nuwanr@sltc.ac.lk
+
